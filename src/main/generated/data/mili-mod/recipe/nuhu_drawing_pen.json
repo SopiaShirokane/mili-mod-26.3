@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "mili-mod:million_alloy",
+  "base": "minecraft:netherite_spear",
+  "addition": "mili-mod:nuhu_color_wheel",
+  "result": "mili-mod:nuhu_drawing_pen"
+}
