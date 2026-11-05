@@ -3,6 +3,8 @@ package com.million;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.million.mofumaru.registry.ModEntities;
+
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.resources.Identifier;
 
@@ -15,7 +17,7 @@ public class MiliMod implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
 		ModItem.initialize();
-		com.million.mofumaru.registry.ModEntities.initialize();
+		ModEntities.initialize();
 	}
 
 	public static Identifier id(String path) {
