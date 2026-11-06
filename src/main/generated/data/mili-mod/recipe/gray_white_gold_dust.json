@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "c": "mili-mod:copper_dust",
+    "g": "mili-mod:gold_dust",
+    "i": "mili-mod:iron_dust"
+  },
+  "pattern": [
+    "ggg",
+    "gii",
+    "c  "
+  ],
+  "result": {
+    "count": 7,
+    "id": "mili-mod:gray_white_gold_dust"
+  }
+}

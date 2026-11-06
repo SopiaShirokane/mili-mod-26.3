@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gray_white_gold_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mili-mod:gray_white_gold_dust"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "mili-mod:gray_white_gold_ingot_from_smelting_gray_white_gold_dust"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gray_white_gold_dust"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mili-mod:gray_white_gold_ingot_from_smelting_gray_white_gold_dust"
+    ]
+  }
+}

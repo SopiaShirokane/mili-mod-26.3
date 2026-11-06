@@ -1,0 +1,11 @@
+// 26.3	-999999999-01-01T00:00:00	Mili-Mod/MiliModRecipeProvider
+59b2e8d7658d372164bab68e01c75dc8baf6e5d9 data/mili-mod/advancement/recipes/misc/copper_dust.json
+9306d1b18685cfb1b8a10010248a25c4ae6c3769 data/mili-mod/advancement/recipes/misc/gold_dust.json
+925630cf7624d0d7240669def81a8b71728cffb2 data/mili-mod/advancement/recipes/misc/gray_white_gold_dust.json
+f6553cb9b6322fe4eb47e204196308420b79d7dd data/mili-mod/advancement/recipes/misc/gray_white_gold_ingot_from_smelting_gray_white_gold_dust.json
+c3e8c1ed7ef0dd6d1b5d6dfc5f4135972d690f2e data/mili-mod/advancement/recipes/misc/iron_dust.json
+0068650c6760aaa0a3323e98860b4c483f6d3d5b data/mili-mod/recipe/copper_dust.json
+5044736f6520b07c23538d09aeebc53a9422c48a data/mili-mod/recipe/gold_dust.json
+da005b235c27e7180cfbd080453b61811735521c data/mili-mod/recipe/gray_white_gold_dust.json
+ebd02c0f7bda2dcb60d19eab5d6f96aa5fbdc91a data/mili-mod/recipe/gray_white_gold_ingot_from_smelting_gray_white_gold_dust.json
+826be91cfbee6f46ed5db9a09b25ee5202af132e data/mili-mod/recipe/iron_dust.json

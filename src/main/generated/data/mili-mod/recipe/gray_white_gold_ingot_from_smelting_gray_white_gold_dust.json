@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 300,
+  "experience": 0.1,
+  "ingredient": "mili-mod:gray_white_gold_dust",
+  "result": {
+    "id": "mili-mod:gray_white_gold_ingot"
+  }
+}

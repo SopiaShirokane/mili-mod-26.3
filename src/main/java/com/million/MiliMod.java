@@ -15,7 +15,6 @@ public class MiliMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
 		ModItem.initialize();
 		ModEntities.initialize();
 	}

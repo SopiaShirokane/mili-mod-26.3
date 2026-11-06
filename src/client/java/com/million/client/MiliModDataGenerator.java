@@ -7,5 +7,7 @@ public class MiliModDataGenerator implements DataGeneratorEntrypoint {
 	@Override
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 		FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
+		pack.addProvider(MiliModModelProvider::new);
+		pack.addProvider(MiliModRecipeProvider::new);
 	}
 }

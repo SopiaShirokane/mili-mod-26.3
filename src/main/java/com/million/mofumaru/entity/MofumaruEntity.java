@@ -16,7 +16,6 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.Level;
 
-/** A small, fluffy, passive creature. */
 public class MofumaruEntity extends PathfinderMob {
 	public MofumaruEntity(EntityType<? extends MofumaruEntity> entityType, Level level) {
 		super(entityType, level);

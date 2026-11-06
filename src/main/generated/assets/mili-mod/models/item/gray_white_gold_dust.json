@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mili-mod:item/gray_white_gold_dust"
+  }
+}
